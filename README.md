@@ -2,7 +2,8 @@
 
 ### 🔹 프로젝트 개요
 
-![image.png](image.png)
+![image.png](images/image.png)
+
 
 - **특징:** 실제 금액이 아닌 버튼 입력 방식으로 금액을 충전하는 구조
 - **최대 충전 금액:** 200,000원
@@ -82,20 +83,20 @@
 
 - defect_1_1
     
-    ![image.png](image%201.png)
+    ![image.png](images/image%201.png)
     
 - defect_6_1
     
-    ![image.png](image%202.png)
+    ![image.png](images/image%202.png)
     
 
 - defect_5_1
     
-    ![image.png](image%203.png)
+    ![image.png](images/image%203.png)
     
 - defect_7_1
     
-    ![image.png](image%204.png)
+    ![image.png](images/image%204.png)
     
 
 ---
